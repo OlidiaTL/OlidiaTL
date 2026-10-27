@@ -1,6 +1,6 @@
 ### Hi, I'm Olidia 👋
 
-Software engineer in Zimbabwe building education technology. I co-founded **[EdAn Labs](https://www.edalyticslabs.com)**, an analytics platform to help secondary schools spot students who need support early, and I teach Computer Science at secondary level.
+Software engineer in Zimbabwe building education technology. I co-founded **[EdAn Labs](https://www.edanalyticslabs.com)**, an analytics platform to help secondary schools spot students who need support early, and I teach Computer Science at secondary level.
 
 **I work with:** Python · FastAPI · Django · PostgreSQL · SQL · React · TypeScript · Docker · AWS (Certified Solutions Architect – Associate)
 
